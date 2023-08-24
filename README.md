@@ -1,41 +1,41 @@
-# Trailer Gry RPG "Zwiadowcy" - Elementy Traileru
+# RPG Game Trailer "Rangers" - Trailer Elements
 
-1. **Nagłówek i Logo Gry:**
-   - *Wyświetlenie tytułu gry* ***"Zwiadowcy"*** *w imponującym stylu.*
-   - *Przedstawienie oficjalnego* ***logo gry*** *na ekranie.*
+1. **Title and Game Logo:**
+   - *Display the game title* ***"Rangers"*** *in an impressive style.*
+   - *Present the official* ***game logo*** *on the screen.*
 
-2. **Krótka Narracja Wstępna:**
-   - *Krótka narracja głosowa lub tekstowa,* ***wprowadzająca gracza*** *do świata gry RPG opartego na książkach Johna Flanagana.*
+2. **Brief Introductory Narration:**
+   - *Short voiceover or text narration,* ***introducing the player*** *to the RPG world based on John Flanagan's books.*
 
-3. **Dynamiczne Sceny Akcji:**
-   - *Pokazanie* ***dynamicznych ujęć z rozgrywki,*** *w których bohaterowie walczą z wrogami, eksplorują środowisko i wykonują różne umiejętności.*
-   - *Wprowadzenie do* ***różnorodności lokacji,*** *od mrocznych lasów po imponujące zamki.*
+3. **Dynamic Action Scenes:**
+   - *Show* ***dynamic gameplay shots,*** *where characters battle enemies, explore environments, and perform various skills.*
+   - *Introduce the* ***diversity of locations,*** *from dark forests to imposing castles.*
 
-4. **Główne Postacie:**
-   - *Przedstawienie* ***głównego bohatera (zwiadowcy) w akcji*** *- walczącego, prowadzącego dochodzenia itp.*
-   - *Krótkie ujęcia innych* ***ważnych postaci,*** *zarówno przyjaciół, jak i wrogów.*
+4. **Main Characters:**
+   - *Show the* ***main character (ranger) in action*** *- fighting, conducting investigations, etc.*
+   - *Brief shots of other* ***important characters,*** *both friends and foes.*
 
-5. **Umiejętności i Ekwipunek:**
-   - *Pokazanie różnorodnych* ***umiejętności, jakie bohaterowie mogą wykorzystać,*** *takich jak walka wręcz, strzelanie z łuku, magia.*
-   - *Szybkie ujęcia* ***zmiany ekwipunku i dostosowywania postaci,*** *by podkreślić elementy gry RPG.*
+5. **Skills and Equipment:**
+   - *Showcase a variety of* ***skills that characters can utilize,*** *such as melee combat, archery, magic.*
+   - *Quick shots of* ***equipment changes and character customization,*** *highlighting RPG elements.*
 
-6. **Epiczna Muzyka:**
-   - *Użycie* ***epickiej muzyki,*** *która podkreśla akcję i emocje.*
+6. **Epic Music:**
+   - *Use* ***epic music*** *that emphasizes action and emotions.*
 
-7. **Dialogi i Interakcje:**
-   - *Wprowadzenie krótkich* ***dialogów lub interakcji,*** *aby pokazać, że w grze istnieje element fabularny i możliwość wyborów gracza.*
+7. **Dialogues and Interactions:**
+   - *Introduce short* ***dialogue sequences or interactions,*** *showcasing the game's narrative element and player choices.*
 
-8. **Ciekawe Bestie i Potwory:**
-   - *Przedstawienie* ***niebezpiecznych potworów,*** *z którymi bohaterowie muszą się zmierzyć, aby podkreślić różnorodność wrogów.*
+8. **Intriguing Beasts and Monsters:**
+   - *Present* ***dangerous monsters,*** *that characters must confront, emphasizing enemy diversity.*
 
-9. **Wynalazczość i Innowacje:**
-   - *Jeśli gra ma* ***unikalne cechy, mechaniki lub innowacje,*** *to warto je tutaj pokazać, aby przyciągnąć uwagę potencjalnych graczy.*
+9. **Ingenuity and Innovations:**
+   - *If the game features* ***unique traits, mechanics, or innovations,*** *showcase them here to attract potential players.*
 
-10. **Data Premiery i Platformy:**
-    - *Krótka informacja o* ***dacie premiery gry*** *oraz na jakich* ***platformach*** *będzie dostępna.*
+10. **Release Date and Platforms:**
+    - *Brief information about the* ***game's release date*** *and the* ***platforms*** *it will be available on.*
 
-11. **Logo Twórców i Sponsorów:**
-    - *Pokazanie logo* ***studia tworzącego grę*** *oraz ewentualnych* ***sponsorów.***
+11. **Developers and Sponsors Logo:**
+    - *Show the* ***developing studio's logo*** *and any potential* ***sponsors' logos.***
 
-12. **Zakończenie:**
-    - *Finalne ujęcie z akcji lub epicka scena,* ***pozostawiające graczom wrażenie i chęć dowiedzenia się więcej.***
+12. **Conclusion:**
+    - *Final action shot or epic scene,* ***leaving players intrigued and eager to learn more.***
