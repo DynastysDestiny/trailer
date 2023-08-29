@@ -1,4 +1,4 @@
-# "Ranger's Apprentice Game: The Ruins of Gorlan" Trailer
+# "Ranger's Apprentice: The Ruins of Gorlan" Trailer
 
 *(The trailer opens on a shot of the orphanage landscape. We see young Will among a crowd of children (Horace, Alyss, Jenny, and George), waiting for the Choosing Day.)*
 
@@ -42,6 +42,6 @@
 
 *(Dramatic close-up to the game logo and release date.)*
 
-**Narrator:** "The Rangers: The Ruins of Gorlan. Get ready for the adventure of a lifetime. Coming soon."
+**Narrator:** "Ranger's Apprentice: The Ruins of Gorlan. Get ready for the adventure of a lifetime. Coming soon."
 
 *(The music intensifies, and the screen fades to black.)*
