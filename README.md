@@ -1,4 +1,4 @@
-# "The Rangers: The Ruins of Gorlan" Trailer
+# "Ranger's Apprentice Game: The Ruins of Gorlan" Trailer
 
 *(The trailer opens on a shot of the orphanage landscape. We see young Will among a crowd of children (Horace, Alyss, Jenny, and George), waiting for the Choosing Day.)*
 
