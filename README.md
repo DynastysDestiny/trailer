@@ -1,6 +1,6 @@
 # "The Rangers: The Ruins of Gorlan" Trailer
 
-*(The trailer opens on a shot of the orphanage landscape. We see young Will among a crowd of children, waiting for the Choosing Day.)*
+*(The trailer opens on a shot of the orphanage landscape. We see young Will among a crowd of children (Horace, Alyss, Jenny, and George), waiting for the Choosing Day.)*
 
 **Narrator (with a subdued voice):** "In a world where destinies intersect and heroes are born..."
 
@@ -14,7 +14,7 @@
 
 *(Camera shows Will sneaking through the orphanage grounds, entering a corridor.)*
 
-**Narrator:** "Navigating through corners and shadows, he will confront his fears."
+**Narrator:** "Navigating through shadows and obstacles, he will confront his fears."
 
 *(Scenes of training under Halt, Will perfecting his combat skills.)*
 
